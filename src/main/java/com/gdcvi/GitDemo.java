@@ -8,7 +8,9 @@ public class GitDemo {
         System.out.println("hello git4");
         System.out.println("master");
         System.out.println("hot fix");
-        System.out.println("hot fix2");
+        System.out.println("one");
+        System.out.println("two");
+        System.out.println("three");
 
     }
 }
